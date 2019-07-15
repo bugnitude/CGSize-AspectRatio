@@ -13,8 +13,8 @@ let aspectFillSize = size.aspectFill(into: CGSize(width: 200.0, height: 200.0))	
 ```
 
 # Requirements
-* Xcode 8.0 and later
-* Swift 3.0 and later
+* Swift 3.0+
+* Xcode 8.0+
 
 # Installation
 Add CGSize+AspectRatio.swift to your project.
